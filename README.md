@@ -43,7 +43,7 @@
 
 ## Usage for development
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/rediramdan/Circle.git`
+2. Type `git clone https://github.com/rediramdan/Go-Read-Mobile.git`
 3. Open the folder and type `yarn install` for install dependencies
 4. Prepare the GO-Read backend and run it. [`See detail`](https://github.com/rediramdan/LIBRARY_APP_API)
 6. Type `yarn run-android` for run this app
